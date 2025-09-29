@@ -1,6 +1,6 @@
 # **LEAD-Drift: Real-time and Explainable Intent Drift Detection by Learning a Data-Driven Risk Score**
 
-## Authors:
+## Authors
 
 Md. Kamrul Hossain (g202215400@kfupm.edu.sa) and Dr. Walid Aljoby (waleed.gobi@kfupm.edu.sa),
 
