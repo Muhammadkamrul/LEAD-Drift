@@ -8,6 +8,8 @@ Information and Computer Science Department,
 King Fahd University of Petroleum & Minerals (KFUPM),
 Dhahran, Saudi Arabia.
 
+#This work is submitted to IEEE ICC 2026 and under review now.
+
 ## Guide to Run LEAD-Drift
 
 1. Setup the dependencies
