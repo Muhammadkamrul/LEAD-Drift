@@ -9,6 +9,7 @@ King Fahd University of Petroleum & Minerals (KFUPM),
 Dhahran, Saudi Arabia.
 
 #This is the official implementation for our paper which is Accepted in IEEE ICC 2026
+#The paper is available in arxiv: https://arxiv.org/abs/2602.13672
 
 ## Guide to Run LEAD-Drift
 
